@@ -33,7 +33,7 @@ alt="Web Analytics"></a></div></noscript>
 <meta name="twitter:card" content="summary_large_image">
 
 <meta property="og:title" content="Community Explorer">
-<meta property="og:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles. ;">
+<meta property="og:description" content="The Community Explorer sorts 751 behavioral, demographic, economic, and social factors across 3,142 US counties into eight community profiles. ;">
 <meta property="og:image" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
 <meta property="og:image:secure_url" content="https://milkeninstitute.org/sites/default/files/GettyImages-1204127705.jpg">
@@ -45,17 +45,17 @@ alt="Web Analytics"></a></div></noscript>
 
 <H2><b> The Community Explorer</b> </H2> <Hr>
 
-The <b>Community Explorer</b> investigates US health disparities by first understanding populations' specificities then looking at their health
-profile. It identifies the different populations or communities based on their behavioral, demographic, economic, and social profiles. Then it links these profiles to chronic disease prevalence rates. 
+The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than what can be told when looking at few indicators at a time. Using machine learning techniques to cluster 751 county-level variables from the American Community Survey
+  
+The 17 community profiles mapped below were identified using machine learning techniques to cluster 751 county-level variables (behavioral, demographic, economic, and social factors) from the American Community Survey. These profiles are:
+  <b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
+<br><b>1</b> the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (26% US population)
+<br><b>2</b> mainly includes less populous Suburban and Small Metro counties which are not as economically prosperous as other American mainstream counties. (18% US population)
+<br><b>3</b> includes affluent and more populous Suburban and Small Metro counties with at least 1 million residents (16% US population)
+<br><b>4</b> capture the middle-class populations that reside in large- to medium-sized Suburban and Small Metro counties (14% US population)
 
-The eight community profiles were identified by using Explanatory Factor Analysis and machine learning techniques, to sort 26 behavioral, demographic, economic, and social factors across 3,192 US counties. 
-
-The map below shows the location of these <b>8 community profiles</B>: 
-<br><b>1</b> the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (38% US population)
-<br><b>2</b> highly educated, economically prosperous, mostly White counties in metro areas. (25% US population)
-<br><b>3</b> the largest Black population, whose income is the lowest income of all the profiles. These counties are primarily concentrated in the south-east. (12% US population)
-<br><b>4</b> the largest white population with the lowest income of all the profiles. It encompasses mostly rural counties in the East North Central, and Northeast regions. (7% US population)
-<br><b>5</b> predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
+ <b>Industry-driven America</B> captures 18% of the US population and encompasses counties concentrated in one inductry which shapes all aspects of their population’s profile (1507 counties).
+  <br><b>5</b> predominantly White counties whose economy depends mostly on manufacturing and are located around the Midwest region. (6% US population) 
 <br><b>6</b> the youngest cohort of the profiles, with the largest Hispanic population, the least education level, access to healthy food, and health insurance. The counties are concentrated in the West and West South-Central regions.  (5% US population)
 <br><b>7</b> the oldest cohort of the profiles and consists of mostly White, elderly retirement communities. (4% US population)
 <br><b>8</b> the most rural cohort made of an older White population with the most limited access to healthy food of all the profiles. The counties are mostly in the north part of the West, Midwest, and Northeast regions. (3% US population)<br>
@@ -70,29 +70,9 @@ The map below shows the location of these <b>8 community profiles</B>:
 <br>
 <Bh>
 <b>Data</b><br>
-BRFSS, CDC's Diabetes Surveillance System, Centers for Medicare & Medicaid Services, Robert Wood Johnson Foundation's County Health Rankings, United Health Foundation's America's Health Rankings, Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
+Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
 <br> <br>
-<b>List of Health Conditions</b><br>
-•	Adult Obesity: Adult obesity prevalence (%)<br>
-•	Adult Smoking: Rate of smoking adults (%)<br>
-•	Air Pollution Levels: Average daily density of fine particulate matter in micrograms per cubic meter (PM2.5)<br>
-•	Asthma Among 65 and Older: Asthma prevalence (%) among 65 and older<br>
-•	Chronic Kidney Disease Among 65 and Older: Chronic Kidney Disease prevalence (%) among 65 and older<br>
-•	Diabetes Among 65 and Older: Diabetes prevalence (%) among 65 and older<br>
-•	Diabetes Prevalence: Diabetes prevalence (%) •	Alzheimer's Disease and Dementia: Alzheimer's Disease and Dementia prevalence (%) <br>
-•	Excessive Drinking: Percentage of adults reporting binge or heavy drinking<br>
-•	Food Environment Index: Index of factors that contribute to a healthy food environment<br>
-•	Food Insecurity Prevalence: Percentage of population who lack adequate access to food<br>
-•	Frequent Mental Distress: Percentage of adults reporting 14 or more days of poor mental health per month<br>
-•	Frequent Physical Distress: Percentage of adults reporting 14 or more days of poor physical health per month<br>
-•	Heart Failure Among 65 and Older: Heart Failure prevalence (%) among 65 and older<br>
-•	Hypertension Among 65 and Older: Hypertension prevalence (%) among 65 and older <br>
-•	Ischemic Heart Disease among 65 and Older: Ischemic Heart Disease prevalence (%) among 65 and older<br>
-•	Limited Access to Healthy Foods: Percentage of population who are low-income and do not live close to a grocery store<br>
-•	Physical Inactivity: Percentage of adults age 20 and over reporting no leisure-time physical activity<br>
-•	Poor Mental Health Days: Average number of mentally unhealthy days (#)<br>
-•	Social Association Rate: Number of membership associations per 10,000 population<br>
-•	Stroke Among 65 and Older: Stroke prevalence (%) among 65 and older<br>
+
 
 <br><br>
 <H2>Related Projects </H2>
