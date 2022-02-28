@@ -47,7 +47,13 @@ alt="Web Analytics"></a></div></noscript>
 
 The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than what can be told when looking at few indicators at a time. Using machine learning techniques to cluster 751 county-level variables from the American Community Survey
   
-The 17 community profiles mapped below were identified using machine learning techniques to cluster 751 county-level variables (behavioral, demographic, economic, and social factors) from the American Community Survey. These profiles are:
+The 17 community profiles mapped below were identified using machine learning techniques to cluster 751 county-level variables (behavioral, demographic, economic, and social factors) from the American Community Survey. 
+<H2>Interactive Map</H2>
+
+**<center><iframe src="https://public.tableau.com/views/Community_Explorer/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
+
+<br>
+These profiles are:
 <br>
 <br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
 <br><b>1</b>-> the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (26% of the US population)
@@ -75,13 +81,7 @@ The 17 community profiles mapped below were identified using machine learning te
 <br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all five counties in Hawaii, and nine of Alaska’s 29 counties (34 counties).
 <br><b>14</b>-> Aloha State (0.4% US population) 
 <br><b>17</b>-> The largest economic gaps between White and Alaska Natives(0.02% US population)
-<br>
-<H2>Interactive Map</H2>
-
-**<center><iframe src="https://public.tableau.com/views/Community_Explorer/Map?:showVizHome=no&:embed=true" width="100%" height="700" frameborder="0"></iframe></center>
-
-<br>
-<br>
+<br><br>
 <Bh>
 <b>Data</b><br>
 Census Bureau's American Community Survey, Bureau of Labor Statistics, Department of Agriculture. <br>
