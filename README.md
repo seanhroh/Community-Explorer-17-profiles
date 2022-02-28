@@ -90,7 +90,8 @@ Census Bureau's American Community Survey, Bureau of Labor Statistics, Departmen
 
 <br><br>
 <H2>Related Projects </H2>
--<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
+-<a href="https://miresearch.github.io/Community-Explorer/" target="_blank"> The Community Explorer(9 profiles based on 26 factors) </a> <br>
+  -<a href="https://milkeninstitute.org/sites/default/files/reports-pdf/Community%20Explorer.pdf" target="_blank"> The Community Explorer: Informing Policy with County-Level Data </a> <br>
 -<a href="https://miresearch.github.io/MI-COVID-19-Community-Explorer" target="_blank"> COVID-19 Community Explorer</a> <br>
 -<a href="https://milkeninstitute.org/reports/weighing-down-america-2020-update" target="_blank"> Weighing Down America: 2020 Update</a><br>
 <Br>
