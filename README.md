@@ -48,6 +48,7 @@ alt="Web Analytics"></a></div></noscript>
 The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than what can be told when looking at few indicators at a time. Using machine learning techniques to cluster 751 county-level variables from the American Community Survey
   
 The 17 community profiles mapped below were identified using machine learning techniques to cluster 751 county-level variables (behavioral, demographic, economic, and social factors) from the American Community Survey. These profiles are:
+<br>
 <br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
 <br><b>1</b>-> the most ethnically diverse community with the highest income level. It is a highly educated cohort that resides in large metro areas. (26% of the US population)
 <br><b>2</b>-> mainly includes less populous Suburban and Small Metro counties which are not as economically prosperous as other American mainstream counties. (18% of the US population)
@@ -55,23 +56,23 @@ The 17 community profiles mapped below were identified using machine learning te
 <br><b>4</b>-> capture the middle-class populations that reside in large- to medium-sized Suburban and Small Metro counties (14% of the US population)
 <br>
 <br><b>Industry-driven America</B> captures 18% of the US population and encompasses counties concentrated in one industry which shapes all aspects of their population’s profile (1507 counties).
- <br><b>5</b>-> Higher education focus (5.4% US population )
- <br><b>6</b>-> Manufacturing, transportation, equipment and machinery in the Midwest (5.2% US population) 
+<br><b>5</b>-> Higher education focus (5.4% US population )
+<br><b>6</b>-> Manufacturing, transportation, equipment and machinery in the Midwest (5.2% US population) 
 <br><b>7</b>-> Low-wage manufacturing and chemical industries in the South.  (4.9% US population)
 <br><b>11</b>-> Agricultural communities. (1.2% US population)
-<br><b>15</b>-> Agriculture on the part of the Great Plains. (0.3% US population)<br>
+<br><b>15</b>-> Agriculture on the part of the Great Plains. (0.3% US population)
 <br>
-<br><b>Graying America</B> captures 5.1% of the US population and encompasses counties with a variety of remote characteristics in terms of income, education, and employment(378 counties).<br><b>
+<br><b>Graying America</B> captures 5.1% of the US population and encompasses counties with a variety of remote characteristics in terms of income, education, and employment(378 counties).
 <br><b>8</b>-> Decent retiree communities (4.5% US population) 
 <br><b>13</b>-> Lonely seniors with the highest disability rate (0.6% US population)
 <br>
-<br><b>Impoverished America</B> captures 3.5% of the US population and encompasses counties with the highest concentration of 65 years and up populaton.(424 counties).<br><b>
+<br><b>Impoverished America</B> captures 3.5% of the US population and encompasses counties with the highest concentration of 65 years and up populaton.(424 counties).
 <br><b>9</b>-> Extreme poverty on the U.S. southern border (1.4% US population) 
 <br><b>10</b>-> Persistent poverty among Black or African American populations (1.3% US population)
 <br><b>12</b>-> Non-Hispanic White poverty in the Upper South (0.7% US population) 
 <br><b>13</b>-> Extreme poverty in American Indian Reservation regions (0.1% US population)
 <br>
-<br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all five counties in Hawaii, and nine of Alaska’s 29 counties (34 counties).<br><b>
+<br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all five counties in Hawaii, and nine of Alaska’s 29 counties (34 counties).
 <br><b>14</b>-> Aloha State (0.4% US population) 
 <br><b>17</b>-> The largest economic gaps between White and Alaska Natives(0.02% US population)
 <br>
