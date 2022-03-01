@@ -9,13 +9,13 @@
   gtag('config', 'UA-166686264-2');
 </script>
 
-<!-- Default Statcounter code for The Community Explorer
-https://miresearch.github.io/Community-Explorer/ -->
+  <!-- Default Statcounter code for CE 17
+https://miresearch.github.io/Community-Explorer-17-profiles/
+-->
 <script type="text/javascript">
-var sc_project=12481025; 
+var sc_project=12724919; 
 var sc_invisible=1; 
-var sc_security="74862afb"; 
-var sc_https=1; 
+var sc_security="161ec0d3"; 
 </script>
 <script type="text/javascript"
 src="https://www.statcounter.com/counter/counter.js"
@@ -23,9 +23,11 @@ async></script>
 <noscript><div class="statcounter"><a title="Web Analytics"
 href="https://statcounter.com/" target="_blank"><img
 class="statcounter"
-src="https://c.statcounter.com/12481025/0/74862afb/1/"
-alt="Web Analytics"></a></div></noscript>
+src="https://c.statcounter.com/12724919/0/161ec0d3/1/"
+alt="Web Analytics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
+  
 
 <meta name="twitter:title" content="Community Explorer">
 <meta name="twitter:description" content="The Community Explorer sorts 26 behavioral, demographic, economic, and social factors across 3,192 US counties into eight community profiles.">
