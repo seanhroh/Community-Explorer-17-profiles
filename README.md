@@ -63,7 +63,7 @@ These profiles are:
 <br><b>3</b>-> includes affluent and more populous Suburban and Small Metro counties with at least 1 million residents (16%)
 <br><b>4</b>-> capture the middle-class populations that reside in large- to medium-sized Suburban and Small Metro counties (14%)
 <br>
-<br><b>Industry-driven America</B> captures 18% of the US population and encompasses counties concentrated in one industry which shapes all aspects of their population’s profile (1507 counties).
+<br><b>Industry-driven America</B> captures 17% of the US population and encompasses counties concentrated in one industry which shapes all aspects of their population’s profile (1507 counties).
 <br><b>5</b>-> Higher education focus (5.4%)
 <br><b>6</b>-> Manufacturing, transportation, equipment and machinery in the Midwest (5.2%) 
 <br><b>7</b>-> Low-wage manufacturing and chemical industries in the South.  (4.9%)
