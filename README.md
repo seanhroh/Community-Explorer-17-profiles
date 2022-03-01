@@ -43,7 +43,7 @@ alt="Web Analytics"></a></div></noscript>
 
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
-<H2><b> The Community Explorer</b> </H2> <Hr>
+<H2><b> The Community Explorer, 17 profiles based on 751 factors</b> </H2> <Hr>
 
 The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than what can be told when looking at few indicators at a time. Using machine learning techniques to cluster 751 county-level variables from the American Community Survey
   
