@@ -79,7 +79,7 @@ More specifically, we cluster the 751 variables (behavioral, demographic, econom
 <br><b>9 =></b> Extreme poverty on the U.S. southern border (1.4%) 
 <br><b>10 =></b> Persistent poverty among Black or African American populations (1.3%)
 <br><b>12 =></b> Non-Hispanic White poverty in the Upper South (0.7%) 
-<br><b>13 =></b> Extreme poverty in American Indian Reservation regions (0.1%)
+<br><b>16 =></b> Extreme poverty in American Indian Reservation regions (0.1%)
 <br>
 <br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all Hawaiian counties and nine of Alaskan counties (34 counties).
 <br><b>14 =></b> Aloha State (0.4%) 
