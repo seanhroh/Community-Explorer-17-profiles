@@ -58,32 +58,33 @@ More specifically, we cluster the 751 variables (behavioral, demographic, econom
 <br>
 <b>These profiles can be summarized as follows:</b>
 <br>
-<br><b>Mainstream America</B> captures 74% of the US population and encompasses Urban Core counties and Suburban and Small Metro counties (819 counties).
-<br><b>1 =></b> The most ethnically diverse profile with the highest income level. It is a highly educated cohort that resides in large metro areas 26% of the US population)
-<br><b>2 =></b> Mainly includes less populous suburban and small Metro counties which are not as economically prosperous as the other mainstream America counties (18%)
-<br><b>3 =></b> Includes affluent and more populous suburban and small metro counties with at least 1 million residents (16%)
-<br><b>4 =></b> Capture the middle-class populations that reside in large- to medium-sized Suburban and Small Metro counties (14%)
+<br><b>Mainstream America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
+<br><b>1 =></b> Prosperous and ethnically diverse large metro areas with substantial disparities between their highly educated (largely non-Hispanic White ) and less educated (largely Black or African American) residents (26% of population)
+<br><b>2 =></b> Less populous suburban and small metro counties that are not as economically prosperous as the other counties in Mainstream America (18% of population)
+<br><b>3 =></b> Affluent and more populous (but less diverse) suburban and small metro counties that jointly represent the profile with both the highest median income (16% population)
+<br><b>4 =></b> Middle-class communities with a largely non-Hispanic White population that resides in large- to medium-sized suburban and small metro counties (14% of population)
 <br>
-<br><b>Industry-driven America</B> captures 17% of the US population and encompasses counties concentrated in one industry which shapes all aspects of their population’s profile (1507 counties).
-<br><b>5 =></b> College towns (5.4%)
-<br><b>6 =></b> Manufacturing, transportation, equipment and machinery in the Midwest (5.2%) 
-<br><b>7 =></b> Low-wage manufacturing and chemical industries in the South (4.9%)
-<br><b>11 =></b> Agricultural communities (1.2%)
-<br><b>15 =></b> Agriculture on the part of the Great Plains (0.3%)
+<br><b>Industry-driven America</B> captures 17% of the U.S. population spread across 1507 counties in which employment is concentrated in one industry that shapes all aspects of the population's profile.
+<br><b>5 =></b> College towns with a relatively young and highly geographically mobile population (5.4% of population)
+<br><b>6 =></b> Counties mostly located in the Midwest that form the profile with the highest proportion of non-Hispanic White population working in the manufacturing sector  (5.2% of population) 
+<br><b>7 =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country with an above average proportion of the population living below poverty line (4.9% of population)
+<br><b>11 =></b> Highly agricultural communities with higher than average concentration of Hispanic or latino population residing mostly in the West and South (1.2% of population)
+<br><b>15 =></b> => Agricultural counties loctated in the Great Plains with a high proportion of non-Hipanic White population (0.3% of population)
 <br>
-<br><b>Graying America</B> captures 5.1% of the US population and encompasses counties with with the highest concentration of 65 years and up populaton. (378 counties)
-<br><b>8 =></b> Decent retiree communities (4.5%) 
-<br><b>13 =></b> Lonely seniors with the highest disability rate (0.6%)
+<br><b>Graying America</B> captures 5.1% of the U.S. population spread across 378 counties that jointly represent the highest concentration of population of age 65 years or older. 
+<br><b>8 =></b> Retiree communities with adequate household incomes and access to economic resources (4.5% of population) 
+<br><b>13 =></b> Lonely seniors with the highest disability rate and relatively low incomes (0.6% of population)
 <br>
-<br><b>Impoverished America</B> captures 3.5% of the US population and encompasses counties with the lowest levels of income. (424 counties)
-<br><b>9 =></b> Extreme poverty on the U.S. southern border (1.4%) 
-<br><b>10 =></b> Persistent poverty among Black or African American populations (1.3%)
-<br><b>12 =></b> Non-Hispanic White poverty in the Upper South (0.7%) 
-<br><b>16 =></b> Extreme poverty in American Indian Reservation regions (0.1%)
+<br><b>Impoverished America</B> captures 3.5% of the U.S. population spread across 424 counties that represent the profile with the lowest of levels of income.
+<br><b>9 =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of population)
+<br><b>10 =></b> Southern counties with the highest proportion of Black or African American population and lowest median household incomes of all profiles (1.3% of population)
+<br><b>12 =></b> Non-Hispanic White communities in the Upper South with the third highest level of unemployment rates and second lowest household incomes of all profiles (0.7% of the U.S. population) 
+<br><b>16 =></b> American Indian Reservation communities living in extreme poverty with more than one third of the population with incomes below the poverty line (0.1% of population)
 <br>
-<br><b>Noncontiguous America</B> captures 0.42% of the US population and encompasses all Hawaiian counties and nine of Alaskan counties (34 counties).
-<br><b>14 =></b> Aloha State (0.4%) 
-<br><b>17 =></b> The largest economic gaps between White and Alaska Natives(0.02%)
+<br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
+<br><b>14 =></b> The Aloha State with high racial and ethnic diversity, high incomes, and relatively low income inequality (0.4% of population)
+<br><b>17 =></b> Alaskan communities with large economic gaps between the non-Hispanic White and Alaska Native populations (0.02% of population)
+ 
 <br><br>
 <Bh>
 <b>Data</b><br>
