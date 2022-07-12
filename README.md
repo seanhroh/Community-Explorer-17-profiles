@@ -47,9 +47,9 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 <H2><b> The Community Explorer (17 profiles based on 751 factors) **beta version**</b> </H2> <Hr>
 
-The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. 
+The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. More specifically, we cluster the 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques.  
   
-More specifically, we cluster the 751 variables (behavioral, demographic, economic, and social factors) for 3142 counties into 17 population profiles using machine learning techniques. 
+ **Click on the profile number to isolate the corresponding counties on the interactive map below. Use the drop-down menu to select a variable; the corresponding graphs compare the county, profile, and US information.
 <br>
 <H2>Interactive Map for the 17 Population Profiles</H2>
 
