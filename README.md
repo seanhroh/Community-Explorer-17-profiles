@@ -79,7 +79,7 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <br><b>9-Hispanic Southern Border =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of population)
 <br><b>10-Black South =></b> Southern counties with the highest proportion of Black or African American population and lowest median household incomes of all profiles (1.3% of population)
 <br><b>12-White Appalachia =></b> Non-Hispanic White communities in the Upper South with the third highest level of unemployment rates and second lowest household incomes of all profiles (0.7% of the U.S. population) 
-<br><b>16 =></b> American Indian Reservation communities living in extreme poverty with more than one third of the population with incomes below the poverty line (0.1% of population)
+<br><b>16-American Indian Reservations =></b> American Indian Reservation communities living in extreme poverty with more than one third of the population with incomes below the poverty line (0.1% of population)
 <br>
 <br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
 <br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high incomes, and relatively low income inequality (0.4% of population)
