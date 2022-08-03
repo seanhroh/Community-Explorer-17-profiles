@@ -59,31 +59,31 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <b>These profiles can be summarized as follows:</b>
 <br>
 <br><b>Mainstream America</B> captures 74% of the U.S. population spread across 819 urban core, suburban, and small metro counties.
-<br><b>1-Urban-Core =></b> Prosperous and ethnically diverse large metro areas with substantial disparities between their highly educated (largely non-Hispanic White ) and less educated (largely Black or African American) residents (26% of population)
-<br><b>2-Lower-middle Class  =></b> Less populous suburban and small metro counties that are not as economically prosperous as the other counties in Mainstream America (18% of population)
-<br><b>3-Affluent Suburbs =></b> Affluent and more populous (but less diverse) suburban and small metro counties that jointly represent the profile with both the highest median income (16% population)
-<br><b>4-Middle Class =></b> Middle-class communities with a largely non-Hispanic White population that resides in large- to medium-sized suburban and small metro counties (14% of population)
+<br><b>1-Urban-Core =></b> Prosperous, ethnically and linguistically diverse large metro areas with substantial disparities between their highly educated (largely White ) and less educated (largely Black or African American) residents (26% of the population)
+<br><b>2-Lower-middle Class  =></b> Less populous suburban and small metro counties that are not as economically prosperous as the rest of Mainstream America (18% of the population)
+<br><b>3-Affluent Suburbs =></b> Affluent and more populous (but less diverse) suburban and small metro counties that jointly represent the profile with the highest median income (16% of the population)
+<br><b>4-Middle Class =></b> Middle-class communities with a largely White population that resides in large- to medium-sized suburban and small metro counties (14% of the population)
 <br>
 <br><b>Industry-driven America</B> captures 17% of the U.S. population spread across 1507 counties in which employment is concentrated in one industry that shapes all aspects of the population's profile.
-<br><b>5-College Towns =></b> College towns with a relatively young and highly geographically mobile population (5.4% of population)
-<br><b>6-Manufacturing Midwest =></b> Counties mostly located in the Midwest that form the profile with the highest proportion of non-Hispanic White population working in the manufacturing sector  (5.2% of population) 
-<br><b>7-Low-wage Manufacturing =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country with an above average proportion of the population living below poverty line (4.9% of population)
-<br><b>11-Hispanic Agriculture =></b> Highly agricultural communities with higher than average concentration of Hispanic or latino population residing mostly in the West and South (1.2% of population)
-<br><b>15-The Great Plains =></b> => Agricultural counties loctated in the Great Plains with a high proportion of non-Hipanic White population (0.3% of population)
+<br><b>5-College Towns =></b> College towns with a relatively young, highly educated, and highly geographically mobile population (5.4% of the population)
+<br><b>6-Manufacturing Midwest =></b> Counties primarily located in the Midwest that form the profile with the highest proportion of White population working in the manufacturing sector (5.2% of the population) 
+<br><b>7-Low-wage Manufacturing =></b> Low-wage workers in the manufacturing and chemical industries located largely in the South and North-East regions of the country, with an above-average proportion of the population living below the poverty line (4.9% of the population)
+<br><b>11-Hispanic Agriculture =></b> Highly agricultural communities with a higher than average concentration of Hispanic or Latino population residing mostly in the West and South (1.2% of the population)
+<br><b>15-The Great Plains =></b> => Agricultural counties located in the Great Plains with a high proportion of the White population (0.3% of the population)
 <br>
 <br><b>Graying America</B> captures 5.1% of the U.S. population spread across 378 counties that jointly represent the highest concentration of population of age 65 years or older. 
-<br><b>8-Retiree Communities =></b> Retiree communities with adequate household incomes and access to economic resources (4.5% of population) 
-<br><b>13-Isolated Seniors =></b> Isolated seniors with the highest disability rate and relatively low incomes (0.6% of population)
+<br><b>8-Retiree Communities =></b> Retiree communities with adequate household incomes and access to economic resources (4.5% of the population) 
+<br><b>13-Isolated Seniors =></b> Isolated seniors with high disability rates and relatively low incomes (0.6% of the population)
 <br>
-<br><b>Impoverished America</B> captures 3.5% of the U.S. population spread across 424 counties that represent the profile with the lowest of levels of income.
-<br><b>9-Hispanic Southern Border =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of population)
-<br><b>10-Black South =></b> Southern counties with the highest proportion of Black or African American population and lowest median household incomes of all profiles (1.3% of population)
-<br><b>12-White Appalachia =></b> Non-Hispanic White communities in the Upper South with the third highest level of unemployment rates and second lowest household incomes of all profiles (0.7% of the U.S. population) 
-<br><b>16-American Indian Reservations =></b> American Indian Reservation communities living in extreme poverty with more than one third of the population with incomes below the poverty line (0.1% of population)
+<br><b>Extremely Vulnerable America</B> captures 3.5% of the U.S. population spread across 424 counties that represent the profile with the lowest of levels of income.
+<br><b>9-Hispanic Southern Border =></b> Counties mostly located along the U.S. southern border with a majority of a relatively young Hispanic or Latino population living in extreme poverty (1.4% of the population)
+<br><b>10-Black South =></b> Southern counties with the highest proportion of Black or African American population and lowest median household income of all profiles (1.3% of the population)
+<br><b>12-White Appalachia =></b> White communities in Appalachia with the third-highest level of unemployment rates and second-lowest household income of all profiles (0.7% of the U.S. population)
+<br><b>16-American Indian Reservations =></b> American Indian Reservation communities living in extreme poverty with more than one-third of the population with income below the poverty line (0.1% of the population)
 <br>
 <br><b>Noncontiguous America</B> captures 0.42% of the U.S. population spread across 34 counties that combine all Hawaiian and nine Alaskan counties.
-<br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high incomes, and relatively low income inequality (0.4% of population)
-<br><b>17-Native Alaskan =></b> Alaskan communities with large economic gaps between the non-Hispanic White and Alaska Native populations (0.02% of population)
+<br><b>14-Hawaii =></b> The Aloha State with high racial and ethnic diversity, high income, and relatively low-income inequality (0.4% of the population)
+<br><b>17-Native Alaskan =></b> Alaskan communities with large economic gaps between the White and Alaska Native populations (0.02% of the population)
  
 <br><br>
 <Bh>
