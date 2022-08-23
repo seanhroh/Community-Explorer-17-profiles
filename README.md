@@ -42,7 +42,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
 
 </head>
-
+<body style="margin:0px;padding:0px;overflow:hidden">
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
 <H2><b> The Community Explorer (17 profiles based on 751 factors)</b> </H2> <Hr>
@@ -103,4 +103,4 @@ Census Bureau's American Community Survey. <br>
   
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
-
+</body>
