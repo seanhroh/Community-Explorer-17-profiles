@@ -42,7 +42,7 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <meta property="og:url" content="https://miresearch.github.io/Community-Explorer/">
 
 </head>
-<body style="margin:0px;padding:0px;overflow:hidden">
+
 <H1><b>Milken Institute Research Department </b></H1><Hr>
 
 <H2><b> The Community Explorer (17 profiles based on 751 factors)</b> </H2> <Hr>
@@ -53,7 +53,7 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <br>
 <H2>Interactive Map for the 17 Population Profiles</H2>
 
-<center> <iframe src="https://ceproject.azurewebsites.net/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe></center>
+<center> <iframe src="https://ceproject.azurewebsites.net/" frameborder="0" height="105%" width="1000"></iframe></center>
 <br>
 <b>These profiles can be summarized as follows:</b>
 <br>
@@ -103,4 +103,4 @@ Census Bureau's American Community Survey. <br>
   
 <a href=" https://miresearch.github.io/About/" target="_blank"> <b>Back to MI Research's main github page</b>  </a>
 
-</body>
+
