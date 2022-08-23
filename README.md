@@ -53,7 +53,7 @@ The <b>Community Explorer</b> groups a wide variety of data—from economic and 
 <br>
 <H2>Interactive Map for the 17 Population Profiles</H2>
 
-<center><iframe src="https://ceproject.azurewebsites.net/" frameborder="0" style="overflow:hidden;height:100%;width:100%" width="100%" height="100%"   ></iframe></center>
+<center> <iframe src="https://ceproject.azurewebsites.net/" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe></center>
 <br>
 <b>These profiles can be summarized as follows:</b>
 <br>
