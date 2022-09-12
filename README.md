@@ -49,7 +49,8 @@ referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 
 The <b>Community Explorer</b> groups a wide variety of data—from economic and demographic numbers to education, housing, and health features— at the county level to tell a deeper story than when using few indicators at one time. More specifically, it synthetizes the infortmation of 751 variables across 3142 counties from the Census Bureau’s American Community Survey using machine learning methods, into 17 communities. Each one of these communities has a distinctive profile that combines demographic, economic, and many other behavior determinants while not being geographically bounded. <b>-><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182037" target="_blank"> More details on the Community Explorer here </a></b>
 
- **Click on the profile number to isolate the corresponding counties on the interactive map below. Use the drop-down menu to select a variable; the corresponding graphs compare the county, profile, and US information.
+ **Select a county, profile, or group of profiles using the drop-down menus on the top of the map. Use drop-down menus on the top of charts to select different information; the corresponding charts compare the county, profile, and US information. <b>-><a href="https://drive.google.com/file/d/1a6a9QuZmtmfRpL1TJHbsiGIFaaH10cVz/view?usp=sharing" target="_blank"> More details on variables in charts here </a></b>
+ 
 <br>
 <H2>Interactive Map for the 17 Population Profiles</H2>
 
